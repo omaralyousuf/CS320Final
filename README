@@ -1,0 +1,10 @@
+How can I ensure that my code, program, or software is functional and secure?
+As a developer, I  should automate my process to make security best practices easier to adopt. 
+The goal is to fix flaws during the natural flow of development, rather than conduct security scans only at the end of the process.
+
+How do I interpret user needs and incorporate them into a program?
+To incorporate user needs into a program we need to engage in a process where users understand their problems, processes, goals, and preferences.
+
+How do I approach designing software?
+I approach designing software with a "Bottom-up" approach where the design starts with the lowest level components and subsystems. 
+This approach can be used to hide the low-level details of implementation and be merged with the top-down technique.
